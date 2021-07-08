@@ -1,0 +1,9 @@
+int main()
+{
+    while (a<5)
+    {
+      i=1;
+      continue;
+      i=2;
+    }
+}
